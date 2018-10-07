@@ -1,4 +1,4 @@
-
+#!/usr/bin/env python
 # coding: utf-8
 
 # # Function colormap
@@ -228,4 +228,16 @@ if testing:
            [218, 208, 161],
            [237, 237, 208],
            [255, 255, 255]],'uint8')))
+
+
+# In[ ]:
+
+
+
+
+
+# In[ ]:
+
+
+
 

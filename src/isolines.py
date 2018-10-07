@@ -1,4 +1,4 @@
-
+#!/usr/bin/env python
 # coding: utf-8
 
 # # Function isolines
@@ -70,4 +70,10 @@ if testing:
 
     ia.adshow(f)
     ia.adshow(g)
+
+
+# In[ ]:
+
+
+
 

@@ -1,4 +1,4 @@
-
+#!/usr/bin/env python
 # coding: utf-8
 
 # # Function histogram
@@ -170,4 +170,10 @@ if testing:
 
 if testing: 
     print(ia.histogram(np.array([3,7,0,0,3,0,10,7,0,7])) ==           np.array([4, 0, 0, 2, 0, 0, 0, 3, 0, 0, 1]))
+
+
+# In[ ]:
+
+
+
 

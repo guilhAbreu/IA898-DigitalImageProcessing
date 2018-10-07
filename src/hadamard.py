@@ -1,4 +1,4 @@
-
+#!/usr/bin/env python
 # coding: utf-8
 
 # # Function hadamard
@@ -74,4 +74,10 @@ if testing:
     f = mpimg.imread('../data/cameraman.tif')
     print('Computational time is:')
     get_ipython().run_line_magic('timeit', 'ia.hadamard(f)')
+
+
+# In[ ]:
+
+
+
 

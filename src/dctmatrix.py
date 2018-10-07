@@ -1,4 +1,4 @@
-
+#!/usr/bin/env python
 # coding: utf-8
 
 # # Function dctmatrix
@@ -72,4 +72,16 @@ if testing:
     import ia898.src as ia
     A = ia.dctmatrix(128)
     ia.adshow(ia.normalize(A,[0,255]),'DCT 128x128')
+
+
+# In[ ]:
+
+
+
+
+
+# In[ ]:
+
+
+
 

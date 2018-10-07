@@ -1,4 +1,4 @@
-
+#!/usr/bin/env python
 # coding: utf-8
 
 # # Function idft
@@ -107,3 +107,9 @@ if False: #testing:
 # 
 # ## Contribution
 # 
+
+# In[ ]:
+
+
+
+

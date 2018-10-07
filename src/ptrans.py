@@ -1,4 +1,4 @@
-
+#!/usr/bin/env python
 # coding: utf-8
 
 # # Function ptrans
@@ -24,10 +24,9 @@
 
 # In[1]:
 
-import numpy as np
 
 def ptrans(f,t):
-    
+    import numpy as np
     g = np.empty_like(f) 
     if f.ndim == 1:
       W = f.shape[0]

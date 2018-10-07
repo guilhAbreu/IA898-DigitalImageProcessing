@@ -1,4 +1,4 @@
-
+#!/usr/bin/env python
 # coding: utf-8
 
 # # sat - Summed Area Table (integral image)
@@ -148,3 +148,9 @@ if testing:
 # ## Contributions
 # 
 # - João Marcos Gualtieri Beraquet, março de 2015
+
+# In[ ]:
+
+
+
+

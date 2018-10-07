@@ -1,4 +1,4 @@
-
+#!/usr/bin/env python
 # coding: utf-8
 
 # # Function mosaic
@@ -116,3 +116,9 @@ if testing:
 #     \end{matrix} $$
 #     
 # were $N$ is the number of image columns in mosaic, $w$ is the original image width and $h$ is the original image height.
+
+# In[ ]:
+
+
+
+

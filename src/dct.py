@@ -1,4 +1,4 @@
-
+#!/usr/bin/env python
 # coding: utf-8
 
 # # Function dct
@@ -134,4 +134,10 @@ if testing:
     get_ipython().run_line_magic('timeit', 'F = ia.dct(f)')
     print('Tempo de execução scipy:')
     get_ipython().run_line_magic('timeit', "Fscipy = spdct(spdct(f,norm='ortho',axis=0),norm='ortho',axis=1)")
+
+
+# In[ ]:
+
+
+
 

@@ -1,4 +1,4 @@
-
+#!/usr/bin/env python
 # coding: utf-8
 
 # # Function gshow
@@ -145,3 +145,9 @@ if testing:
 # ## Contributions
 
 # - Tiago Dezotti, 1. sem 2017.
+
+# In[ ]:
+
+
+
+

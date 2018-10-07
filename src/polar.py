@@ -1,4 +1,4 @@
-
+#!/usr/bin/env python
 # coding: utf-8
 
 # # Function iapolar
@@ -137,3 +137,9 @@ if testing:
 
 # - Luiz Wetzel, 1st semester 2010
 # - Danilo Rodrigues Pereira, 1st semester 2011
+
+# In[ ]:
+
+
+
+

@@ -1,4 +1,4 @@
-
+#!/usr/bin/env python
 # coding: utf-8
 
 # # Principal Component Analysis (PCA)
@@ -214,3 +214,9 @@ if testing:
 # ## Contributions
 # 
 # - Roberto Medeiros de Souza, Sept 2013
+
+# In[ ]:
+
+
+
+

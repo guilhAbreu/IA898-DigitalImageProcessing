@@ -1,4 +1,4 @@
-
+#!/usr/bin/env python
 # coding: utf-8
 
 # # pconv - Periodic convolution, kernel origin at array origin

@@ -1,4 +1,4 @@
-
+#!/usr/bin/env python
 # coding: utf-8
 
 # # Function h2stats
@@ -179,3 +179,9 @@ if testing:
 # ## Contributions
 # 
 # - Mariana Bento, August 2013
+
+# In[ ]:
+
+
+
+

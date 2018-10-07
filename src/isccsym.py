@@ -1,4 +1,4 @@
-
+#!/usr/bin/env python
 # coding: utf-8
 
 # # Function isccsym
@@ -170,3 +170,9 @@ if False: # testing:
 # 
 # - Marcelo Zoccoler, 1st semester, 2017
 # - Mariana Pinheiro, 1st semester 2011
+
+# In[ ]:
+
+
+
+

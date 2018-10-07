@@ -1,4 +1,4 @@
-
+#!/usr/bin/env python
 # coding: utf-8
 
 # # Function haarmatrix
@@ -95,4 +95,16 @@ if testing:
     nb.nbshow(f,'Imagem original')
     nb.nbshow(ia.normalize(np.log(abs(F)+1)),'Haar transform')
     nb.nbshow()
+
+
+# In[ ]:
+
+
+
+
+
+# In[ ]:
+
+
+
 

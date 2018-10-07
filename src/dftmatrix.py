@@ -1,4 +1,4 @@
-
+#!/usr/bin/env python
 # coding: utf-8
 
 # # Function dftmatrix
@@ -117,4 +117,10 @@ if testing:
            [ 0. , -0.5,  0. ,  0.5],
            [ 0. ,  0. ,  0. ,  0. ],
            [ 0. ,  0.5,  0. , -0.5]])))
+
+
+# In[ ]:
+
+
+
 

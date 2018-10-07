@@ -1,4 +1,4 @@
-
+#!/usr/bin/env python
 # coding: utf-8
 
 # # Function affine
@@ -234,4 +234,10 @@ if testing:
           [[ 1,  3,  5,  5,  5],
            [ 6,  8, 10, 10, 10],
            [11, 13, 15, 15, 15]])))
+
+
+# In[ ]:
+
+
+
 

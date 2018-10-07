@@ -1,4 +1,4 @@
-
+#!/usr/bin/env python
 # coding: utf-8
 
 # # Function iagaussian
@@ -131,4 +131,10 @@ if testing:
     #       [ 0.013,  0.022,  0.013,  0.003],
     #       [ 0.001,  0.002,  0.001,  0.   ],
     #       [ 0.   ,  0.   ,  0.   ,  0.   ]])))
+
+
+# In[ ]:
+
+
+
 

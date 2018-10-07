@@ -1,4 +1,4 @@
-
+#!/usr/bin/env python
 # coding: utf-8
 
 # # Function log
@@ -187,3 +187,9 @@ if testing:
 #  - [logfilter]() - Laplacian of Gaussian filter.
 #  - [Blob detection wikipedia](http://en.wikipedia.org/wiki/Blob_detection)
 #  - [Laplacian of Gaussian](http://homepages.inf.ed.ac.uk/rbf/HIPR2/log.htm)
+
+# In[ ]:
+
+
+
+

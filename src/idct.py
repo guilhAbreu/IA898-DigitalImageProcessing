@@ -1,4 +1,4 @@
-
+#!/usr/bin/env python
 # coding: utf-8
 
 # # Function idct
@@ -135,4 +135,16 @@ if testing:
     get_ipython().run_line_magic('timeit', 'g = ia.idct(f)')
     print('Tempo de execução scipy:')
     get_ipython().run_line_magic('timeit', "gscipy = spidct(spidct(F,norm='ortho',axis=0),norm='ortho',axis=1)")
+
+
+# In[ ]:
+
+
+
+
+
+# In[ ]:
+
+
+
 

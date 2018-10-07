@@ -1,4 +1,4 @@
-
+#!/usr/bin/env python
 # coding: utf-8
 
 # # Function conv
@@ -158,4 +158,10 @@ if testing:
     print(repr(ia.conv(np.array([[1,0,1,0],[0,0,0,0]]), np.array([1,2,3]))) == repr(np.array(
           [[1., 2., 4., 2., 3., 0.],
            [0., 0., 0., 0., 0., 0.]])))
+
+
+# In[ ]:
+
+
+
 

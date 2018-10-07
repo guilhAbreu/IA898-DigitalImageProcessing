@@ -1,4 +1,4 @@
-
+#!/usr/bin/env python
 # coding: utf-8
 
 # # Function logfilter
@@ -93,4 +93,16 @@ if testing:
     nb.nbshow(ia.normalize(g10), 'sigma=10')
     nb.nbshow(g10 > 0, 'positive, sigma=10')
     nb.nbshow()
+
+
+# In[ ]:
+
+
+
+
+
+# In[ ]:
+
+
+
 

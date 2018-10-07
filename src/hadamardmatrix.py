@@ -1,4 +1,4 @@
-
+#!/usr/bin/env python
 # coding: utf-8
 
 # # Function hadamardmatrix
@@ -86,4 +86,10 @@ if testing:
 if testing:
     print('Computational time is:')
     get_ipython().run_line_magic('timeit', 'ia.hadamardmatrix(128)')
+
+
+# In[ ]:
+
+
+
 

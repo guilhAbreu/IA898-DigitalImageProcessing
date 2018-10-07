@@ -1,4 +1,4 @@
-
+#!/usr/bin/env python
 # coding: utf-8
 
 # # Function normalize
@@ -145,4 +145,10 @@ if testing:
 if testing:
     print('testing normalize')
     print(repr(ia.normalize(np.array([-100., 0., 100.]), [0,255])) == repr(np.array([   0. ,  127.5,  255. ])))
+
+
+# In[ ]:
+
+
+
 

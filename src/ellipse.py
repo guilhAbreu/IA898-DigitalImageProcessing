@@ -1,4 +1,4 @@
-
+#!/usr/bin/env python
 # coding: utf-8
 
 # # Function ellipse
@@ -108,3 +108,9 @@ if testing:
 # ## Contributions
 # 
 # - Rafael Berri, 23sep2013: initial function.
+
+# In[ ]:
+
+
+
+

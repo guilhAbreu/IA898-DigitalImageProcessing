@@ -1,4 +1,4 @@
-
+#!/usr/bin/env python
 # coding: utf-8
 
 # # Function applylut
@@ -150,4 +150,10 @@ if testing:
     print('testing applylut')
     print(repr(ia.applylut(np.array([0,1,2,3]),np.array([0,1,2,3]))) == repr(np.array([0,1,2,3])))
     print(repr(ia.applylut(np.array([0,1,2,3]),np.array([[0,0,0],[1,1,1],[2,2,2],[3,3,3]]))) == repr(np.array([[0,0,0], [1,1,1], [2,2,2],[3,3,3]])))
+
+
+# In[ ]:
+
+
+
 

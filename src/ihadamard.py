@@ -1,4 +1,4 @@
-
+#!/usr/bin/env python
 # coding: utf-8
 
 # # Function ihadamard
@@ -83,4 +83,10 @@ if testing:
     F = ia.hadamard(f)
     print('Computational time is:')
     get_ipython().run_line_magic('timeit', 'ia.ihadamard(F)')
+
+
+# In[ ]:
+
+
+
 

@@ -1,4 +1,4 @@
-
+#!/usr/bin/env python
 # coding: utf-8
 
 # # dft
@@ -154,3 +154,9 @@ if testing:
 # ## Contributions
 # 
 # - Mariana Pinheiro, 1st semester 2011
+
+# In[ ]:
+
+
+
+

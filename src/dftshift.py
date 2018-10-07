@@ -1,4 +1,4 @@
-
+#!/usr/bin/env python
 # coding: utf-8
 
 # # Function dftshift
@@ -99,3 +99,9 @@ if testing:
 # ## Contributions
 # 
 # - André Luis da Costa, 1st semester 2011
+
+# In[ ]:
+
+
+
+
