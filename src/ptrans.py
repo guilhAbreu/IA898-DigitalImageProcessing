@@ -24,9 +24,9 @@
 
 # In[1]:
 
-
+import numpy as np
 def ptrans(f,t):
-    import numpy as np
+    
     g = np.empty_like(f) 
     if f.ndim == 1:
       W = f.shape[0]
@@ -63,6 +63,7 @@ def ptrans2(f, t):
 
 
 def ptrans2d(f,t):
+    import numpy as np
     rr,cc = t
     H,W = f.shape
     

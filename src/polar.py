@@ -34,8 +34,11 @@
 import numpy as np
 
 def polar(f, domain, thetamax = 2 * np.pi):
-    import ia898.src as ia
-    
+    import sys,os
+    ia898path = os.path.abspath('../')
+    if ia898path not in sys.path:
+        sys.path.append(ia898path)
+    import src as ia
     m,n = f.shape
     dm,dn = domain
     Ry,Rx = np.floor(np.array(f.shape)/2)
